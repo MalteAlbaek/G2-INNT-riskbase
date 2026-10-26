@@ -42,8 +42,3 @@ bun run db:reset    # applies the migrations in supabase/migrations
 | `bun run type-check` | TypeScript check |
 
 See [apps/web/README.md](apps/web/README.md) for more details.
-
-## Adding the video
-
-- **Under 10 MB:** edit this README on github.com and drag the video file into the editor – GitHub uploads it and inserts a link that plays directly in the README.
-- **Larger:** upload to YouTube/Vimeo (unlisted) and paste the link here, or put the file in `docs/` (max 100 MB per file on GitHub).
