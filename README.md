@@ -4,8 +4,7 @@ Next.js web app for screening of project documents (tenders, environmental and g
 
 ## Demo video
 
-<!-- Replace the line below with the video link (see "Adding the video" at the bottom) -->
-_Video coming soon._
+▶️ [Watch the demo video](docs/demo.mov)
 
 ## Project structure
 
