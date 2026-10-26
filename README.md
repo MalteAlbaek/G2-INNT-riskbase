@@ -4,7 +4,7 @@ Next.js web app for screening of project documents (tenders, environmental and g
 
 ## Demo video
 
-▶️ [Watch the demo video](docs/demo.mov)
+▶️ [Watch the demo video](docs/demo.mov) – on the file page, click **View raw** to download the video.
 
 ## Project structure
 
